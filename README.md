@@ -1,1 +1,3 @@
-# Strucsure-
+# Strucsure - WEB-BASED ORGANIZATIONAL PROFILING SYSTEM
+
+The Organization Profiling System is a web-based application built with Firebase to manage member information and organizational duties for a small organization. The system will use Firebase Authentication for secure logins, Firestore for storing members profiles and activity logs, and Role-Based Access Control (RBAC) to distinguish Admin, Executive, and Member privileges. Hosted on Firebase Hosting, the platform will provide a responsive dashboard accessible on Desktops/Laptops, Tablets/iPads, and Mobile Devices. Security rules will ensure that members can only access their own data, while admins oversee all records. Real-time synchronization and built-in backups will enhance reliability, while the user-friendly interface improves organizational transparency and efficiency.
